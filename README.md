@@ -1,5 +1,6 @@
 "# javascript" 
-
+| 상태 | 의미 |
+|---|:---:|
 스트릭모드 O | undefined
 스트릭모드 X | window
 함수실행 중 | 컨텍스트
